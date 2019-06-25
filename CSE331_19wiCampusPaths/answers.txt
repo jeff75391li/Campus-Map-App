@@ -1,0 +1,12 @@
+CSE 331 Homework 9.
+
+Name:  Ruiming Li
+
+Changes that I made to the model:
+    Used AndroidParser to parse data.
+    Added a new method getCoordinate in CampusPathsModel.java.
+    (It returns the corresponding coordinate of the given abbreviated building name.)
+
+Extra features on campus paths GUI:
+    The map will be automatically zoomed in when a route is drawn.
+    The app allows the user to select the endpoints of a path by touching buildings on the map.
